@@ -1,6 +1,6 @@
 - 👋 ImLuni
 - 💻 Développeur Lua | PHP
-- 🌱 Projet ZenLife [ Discord.gg/ZenLife ]
+- 🌱 Luni Developpement | discord.gg/ldleak
 - 👀 Créateur de script & job
 
 <!---
