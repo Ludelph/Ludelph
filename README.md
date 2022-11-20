@@ -19,4 +19,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imluni&show_icons=true&locale=fr&layout=compact" alt="imluni" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imluni&show_icons=true&locale=fr" alt="imluni" /></p>
