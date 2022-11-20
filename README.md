@@ -1,7 +1,7 @@
 - 👋 Luni
 - 💻 Développeur Lua | PHP
 - 🌱 Luni Developpement | discord.gg/ldleak
-- 👀 Créateur de script & job
+- 👀 Script, Base, Jobs & Webz
 
 <!---
 ImLuni.fr
