@@ -6,7 +6,7 @@
 
 - 🤝 Discord [LDLeak](https://discord.gg/LDLeak)
 
-- 👨‍💻 **Retrouve tout mes créations sur mon discord**
+- 👨‍💻 **Retrouve toutes mes créations sur mon discord**
 
 <h3 align="left">Contacter moi</h3>
 <p align="left">
