@@ -1,9 +1,5 @@
 <h3 align="center">Developpeur Lua & PHP</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imluni&label=Profile%20views&color=0e75b6&style=flat" alt="imluni" /> </p>
-
-<p align="left"> <a href="https://twitter.com/imluni_fr" target="blank"><img src="https://img.shields.io/twitter/follow/imluni_fr?logo=twitter&style=for-the-badge" alt="imluni_fr" /></a> </p>
-
 - 🔭 Script en cours : **LD_Casino**
 
 - 🌱 En cours d'apprentissage : **React & TypeScript**
