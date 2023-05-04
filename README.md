@@ -4,8 +4,6 @@
 
 - 🌱 En cours d'apprentissage : **React & TypeScript**
 
-- 🤝 Discord [LDLeak](https://discord.gg/LDLeak)
-
 - 👨‍💻 **Retrouve toutes mes créations sur mon discord**
 
 <h3 align="left">Contacter moi</h3>
