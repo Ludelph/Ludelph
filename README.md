@@ -1,6 +1,6 @@
 <h3 align="center">Developpeur Lua & PHP</h3>
 
-- 🔭 Script en cours : **LD_Casino**
+- 🔭 Prochain projet : **MyBot - Votre bot multi-fonction** avec [Sumonil](https://github.com/Sumonil)
 
 - 🌱 En cours d'apprentissage : **React & TypeScript**
 
