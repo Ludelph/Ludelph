@@ -1,6 +1,6 @@
 <h3 align="center">Developpeur Lua & PHP</h3>
 
-- 🔭 Prochain projet : **MyBot - Votre bot multi-fonction** avec [Julian-Louis](https://github.com/Julian-Louis)
+- 🔭 Prochain projet : **N/A**
 
 - 🌱 En cours d'apprentissage : **React & TypeScript**
 
